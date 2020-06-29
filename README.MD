@@ -35,7 +35,7 @@ SFPkcs12.pm <br/>
 InputPlugins\csv.pm <br/>
 
 ### CLONING THE REPO 
-git clone https://github.com/tekgourou/AWS_EC2_CONTETXT_to_FMC.git <br/>
+git clone https://github.com/tekgourou/AWS_EC2_CONTEXT_to_FMC.git <br/>
 cd AWS_EC2_CONTEXT_to_FMC/scripts <br/>
 python3 -m venv venv <br/>
 source venv/bin/activate <br/>
