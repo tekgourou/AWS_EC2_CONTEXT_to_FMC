@@ -1,0 +1,7 @@
+{
+    "FMC_ipaddress": "PUT_YOUR_FMC_IP_HERE",
+    "FMC_host_vuln_db_overwrite_OR_update": "update",
+    "push_changes_to_fmc": true,
+    "FMC_user": "PUT_YOUR_FMC_USER_HERE",
+    "FMC_password": "PUT_YOUR_FMC_PASSWORD_HERE"
+}
