@@ -39,7 +39,7 @@ git clone https://github.com/tekgourou/AWS_EC2_CONTEXT_to_FMC.git <br/>
 cd AWS_EC2_CONTEXT_to_FMC/scripts <br/>
 python3 -m venv venv <br/>
 source venv/bin/activate <br/>
-pip install -r requirements.txt <br/>
+pip3 install -r requirements.txt <br/>
 
 ### Prerequisites
 This tool use python to establish communications with AWS EC2 API and pull the context informations for all instances. <br/>
