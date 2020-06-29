@@ -4,9 +4,8 @@
 This repo contains a Python & Perl scripts to grab context information, IP & instance profile, from AWS EC2 and share this with Cisco FMC.
 ![image](./diagram.png)
 <br/>
-![image](./fmc_user_activity.png)
-<br/>
 ![image](./fmc_host_profile.png)
+<br/>
 
 Please contact me at alexandre@argeris.net, if you have any questions or remarks. If you find any bugs, please report them to me, and I will correct them. 
   
