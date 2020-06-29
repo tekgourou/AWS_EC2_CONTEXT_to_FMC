@@ -1,3 +1,4 @@
+[![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/tekgourou/AWS_EC2_CONTEXT_to_FMC)
 
 ### Sharing AWS EC2 instance Image description context (IP & instance profile) to Cisco Firepower Management Center
   
